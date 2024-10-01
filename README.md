@@ -35,7 +35,7 @@ The next questions ask about what (if any) prior experience you have. This class
 
 1. Programming (any languages/ frameworks)
 
-Some unity in highschool(Forot everything)
+Some unity in highschool(Fogot everything)
 
 2. Game development (any engine)
 
